@@ -1,6 +1,8 @@
-- Larry Plotter y El Bucle Filosofales
+# Índice
 
-- Larry Plotter y La Clave Secreta del Wifi
+- Larry Plotter y El Micro Filosofales
+
+- Larry Plotter y La Clave Privada
 
 - Larry Plotter y El Prisionero del Firewall
 
