@@ -1,4 +1,4 @@
-- Larry Plotter y El Bucle Filosofal
+- Larry Plotter y El Bucle Filosofales
 
 - Larry Plotter y La Clave Secreta del Wifi
 
